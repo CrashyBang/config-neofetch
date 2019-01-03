@@ -1,0 +1,7 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-neofetch
+!/.config/neofetch
+!/.config/neofetch/*
+!/.config/neofetch/ascii
+!/.config/neofetch/ascii/*
